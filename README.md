@@ -1,0 +1,6 @@
+# 英文联盟网站模板 开源区块链网站源码 WordPress采集网站 带数据带自动采集软件
+
+<br>安装简单方便，有非常全面的视频和文字教程，上传文件并导入数据即可成站！新手不会安装需要安装指导的，请先联系店家协商确认！<br>源码演示地址：http://example.com/go/coinbase<br>模板程序在Windows服务器和Linux环境下测试通过 兼容浏览器：<br>IE10,IE11, Edge,Firefox,Safari,Opera,Chrome <br>你使用中有任何问题请店家都有在线，有任何问题请在线联系QQ：138762189<br>购买主题后提供更新，并免费提供售后技术支持！<br>安装成演示站需要使用者有一定的WordPress操作能力！<br>不懂请先看视频教程，再问客服！<br>推荐使用cPanel主机系统。<br>推荐主机配置Linux+Nginx+example.com +example.com<br>虚拟主机. 推荐主机：cPanel面板，至少1G以上网站空间容量！长期采集做站需要至少5G网站空间！<br>安装前请确保高版本的MYSQL和PHP环境，推荐cPanel主机或者宝塔面板配置！模板带有详细中文安装解说视频教程和图文教程，不懂可以问客服。<br>模板主题价格是不包含安装的，可先看教程来安装。也可选择付费安装！购买主题附送采集器。此模板经测试完整无错，导入后和演示站一样！<br>购买WP主题源码,附送整合采集规则的采集软件电脑版!（注：也有机器人全自动采集插件版）附送的采集软件可整站内容采集，替换关键词，批量的发布内容到网站上来，采集软件整合了免登陆发布接口！<br>方便，快捷，简单！所有都已经配置好，你需要做的只是按时每天打开电脑启用软件来采集内容并发布到网站上进行内容更新！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/UiFrd" style="color: red;">https://mega-file.org/UiFrd</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
